@@ -1,0 +1,2 @@
+# gimerc
+Static web page
